@@ -1,7 +1,6 @@
 - Hey githuber, I’m @GiacomoPauletti 😊️
-- I’m interested in Python and C programming, especially _operative systems_ and _artificial intelligence_ 🖥️
-- I’m currently attending **Computer Engineering**. 👨‍🎓️
-  - I've already attendet basic programming and basic internet architecture course
-  - This year I will attend algorithm course and computer architecture ( and operating systems) course
+- I’m interested in _operative systems_ and _Artificial Intelligence_, expecially Image Recognition and Image Segmentation 🖥️
+  - I also like picking up random projects 👽
+- I’m currently enrolled into the 3rd year of **Computer Engineering** @ PolitecnicoDiMilano. 👨‍🎓️
 - Reach me at giacomo.pauletti@gmail.com 🔷️
 
