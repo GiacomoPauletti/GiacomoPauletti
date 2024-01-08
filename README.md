@@ -3,4 +3,5 @@
   - I also like picking up random projects 👽
 - I’m currently enrolled into the 3rd year of **Computer Engineering** @ PolitecnicoDiMilano. 👨‍🎓️
 - Reach me at giacomo.pauletti@gmail.com 🔷️
+- My Linkedin: https://www.linkedin.com/in/giacomo-pauletti-6737ba2a6/
 
